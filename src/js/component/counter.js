@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 const Counter = (props) => {
 	return (
 		<div className="bigCounter">
-			<div><i className="fa-regular fa-clock-nine"></i></div>
+			<div><i className="far fa-clock"></i></div>
 			<div>{props.fourth}</div>
 			<div>{props.third}</div>
 			<div>{props.second}</div>
