@@ -2,13 +2,23 @@
     background: black;
     color: white;
     text-align: center;
+    padding-bottom: 20px;
 }
 
 .bigCounter div{
     display: inline-block;
     font-size: 60px;
     line-height: 60px;
-    background: #00000094;
+    background: rgb(44, 43, 43);
     margin: 2px;
     padding: 10px;
+    border-radius: 10%;
+}
+.buttons{
+    background: black;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.btn{
+    margin-right: 10px;
 }
